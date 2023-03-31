@@ -1,0 +1,16 @@
+{"level":"info","message":"Addition of 2 and 3","service":"calculator-microservice"}
+{"level":"info","message":"Result: 5","service":"calculator-microservice"}
+{"level":"info","message":"A Division of 2 and 0","service":"calculator-microservice"}
+{"level":"error","message":"Division by Zero Error","service":"calculator-microservice"}
+{"level":"info","message":"A Division of 2 and 0","service":"calculator-microservice"}
+{"level":"error","message":"Division by Zero Error","service":"calculator-microservice"}
+{"level":"info","message":"Addition of 2 and 3","service":"calculator-microservice"}
+{"level":"info","message":"Result: 5","service":"calculator-microservice"}
+{"level":"info","message":"Addition of 2 and 3","service":"calculator-microservice"}
+{"level":"info","message":"Result: 5","service":"calculator-microservice"}
+{"level":"info","message":"Multiplication of 2 and 3","service":"calculator-microservice"}
+{"level":"info","message":"Result: 6","service":"calculator-microservice"}
+{"level":"info","message":"A Division of 2 and 3","service":"calculator-microservice"}
+{"level":"info","message":"Result: 0.6666666666666666","service":"calculator-microservice"}
+{"level":"info","message":"Subtraction of 2 and 3","service":"calculator-microservice"}
+{"level":"info","message":"Result: -1","service":"calculator-microservice"}
